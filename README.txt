@@ -1,0 +1,1 @@
+Here are all of my Codecademy JavaScript projects to date. The instructions for the earlier projects were step-by-step. The instructions for the later projects were more open-ended and less guided. 
