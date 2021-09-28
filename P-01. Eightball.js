@@ -31,3 +31,7 @@ switch (randomNumber) {
     break;}
 
 console.log(eightBall)
+
+//this comment is a test
+
+const testing123 = a+b;
